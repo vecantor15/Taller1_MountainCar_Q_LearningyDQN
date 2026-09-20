@@ -79,6 +79,10 @@ El flujo de entrenamiento documentado para este agente es el siguiente:
 7. Si el episodio terminó al alcanzar la meta, la actualización se hace sin bootstrap desde el siguiente estado.
 8. El proceso continúa hasta finalizar el episodio y se repite durante todo el entrenamiento.
 
+![Esquema propio del entrenamiento de Q-Learning](docs/esquema_qlearning.png)
+
+**Figura 1. Esquema propio del entrenamiento de Q-Learning.** El flujo representa el estado continuo, la discretización, la consulta de la Q-table, la selección de la acción mediante política epsilon-greedy, la interacción con MountainCar-v0, la recompensa y la actualización de los valores Q.
+
 
 ---
 
