@@ -1,0 +1,35 @@
+{
+  "qlearning": {
+    "training_episodes": 20000,
+    "training_seconds": 37.50729175000015,
+    "last_100_training_mean": -162.9,
+    "best_100_training_mean": -125.39,
+    "best_100_training_episode": 15860,
+    "evaluation": {
+      "episodes": 100,
+      "mean_reward": -149.23,
+      "std_reward": 16.83559027774197,
+      "best_reward": -118.0,
+      "worst_reward": -171.0,
+      "successes": 100,
+      "success_rate": 1.0
+    }
+  },
+  "dqn": {
+    "training_episodes": 2500,
+    "training_seconds": 317.8511136669986,
+    "last_100_training_mean": -129.57,
+    "best_100_training_mean": -121.32,
+    "best_100_training_episode": 1506,
+    "evaluation": {
+      "episodes": 100,
+      "mean_reward": -108.32,
+      "std_reward": 9.922580309576738,
+      "best_reward": -83.0,
+      "worst_reward": -115.0,
+      "successes": 100,
+      "success_rate": 1.0
+    }
+  },
+  "seed": 42
+}
