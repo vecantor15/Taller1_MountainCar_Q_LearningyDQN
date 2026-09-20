@@ -1,5 +1,15 @@
 # Taller 1 — MountainCar-v0 con Q-Learning y DQN
 
+Presentado por: 
+
+Ernesto Ilich Contreras Hernandez
+Jesus Gabriel Castillo Malaver
+Noel Eduardo Perez Barrios
+Paola Andrea Roa Molina
+Ruslan Valery Yaya Chujmanov
+Victor Enrique Cantor Beltran
+
+
 ## Objetivo
 
 Este repositorio implementa y compara dos enfoques de **Aprendizaje por Refuerzo** para resolver el entorno `MountainCar-v0` de Gymnasium:
