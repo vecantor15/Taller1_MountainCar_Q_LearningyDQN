@@ -139,7 +139,9 @@ El flujo de entrenamiento documentado para DQN es el siguiente:
 8. La red online se actualiza mediante **backpropagation**.
 9. Cada `10` episodios se sincronizan los pesos de la red online con la red objetivo.
 
+![Esquema propio del entrenamiento de DQN](docs/esquema_dqn.png)
 
+**Figura 2. Esquema propio del entrenamiento de DQN.** El flujo representa la red online, la selección epsilon-greedy, la interacción con el entorno, el replay buffer, el mini-lote, la red objetivo, el objetivo de Bellman, la pérdida y la actualización mediante backpropagation.
 ---
 
 ## 4. Resultados reproducibles
