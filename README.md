@@ -1,6 +1,6 @@
 # Taller 1 — MountainCar-v0 con Q-Learning y DQN
 
-Presentado por: 
+# Presentado por: 
 
 Ernesto Ilich Contreras Hernandez.
 
