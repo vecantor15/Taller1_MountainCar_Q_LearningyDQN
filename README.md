@@ -268,7 +268,8 @@ uv run mountaincar load dqn --eval
 │   ├── qlearning_evidence.png
 │   └── dqn_evidence.png
 └── docs/
-    └── .gitkeep
+    ├── esquema_qlearning.png
+    └── esquema_dqn.png
 ```
 
 ---
